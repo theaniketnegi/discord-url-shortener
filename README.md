@@ -43,3 +43,6 @@ npm start
 
 ## Usage
 Add your bot to a server and use "/create `<URL>`" or "create `<URL>`" which will generate the shortened URL
+
+![image](https://github.com/theaniketnegi/discord-url-shortener/assets/49506854/83783c21-61a7-444d-aa7d-1ef9887ca1f9)
+
